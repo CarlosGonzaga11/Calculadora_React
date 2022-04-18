@@ -1,0 +1,23 @@
+
+
+.campo-digitado {
+    width: 350px;
+    height: 100px;
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+
+ 
+    
+}
+input{
+    width: 350px;
+    outline: none;
+    height: 100px;
+    border: none;
+    background: white;
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
