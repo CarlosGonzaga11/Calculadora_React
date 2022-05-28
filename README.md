@@ -6,6 +6,7 @@ Acessar por: digital-signboard.vercel.app
 Tecnologias
 Como executar
 Licença
+
 💻 Tecnologias
 Esse projeto foi desenvolvido utlizando:
 JavaScript
